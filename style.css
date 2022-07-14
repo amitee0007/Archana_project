@@ -1,0 +1,210 @@
+body{
+    display:block;
+    position: absolute;
+    margin: 0% !important;
+    background-color: white;
+   }
+    .div_1{
+       width: 100%;
+       display: flex;
+       position: absolute;
+       padding-top: 1%;
+     }
+     .div_1a{
+        margin-left: 20%;
+     }
+     .div_1b,.div_1c, .div_1d, .div_1e, .div_1f {
+        margin-left: 20px;
+     }
+
+    .div2{
+      display: flex;
+      margin-left: 20%;
+      padding-top: 105px;
+        
+    }
+    .img{
+      height: 75px;
+      width: 75px;
+      margin: -18% 0% 0% 10%;
+      border-radius: 10px;
+    }
+    .div2_a, .div2_b, .div2_c, .div2_d{
+      margin-left: 30px;
+      width: 250px;
+      background-color: whitesmoke;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      padding-top: 20px;
+     
+
+    }
+    .hhh{
+      text-align: center;
+      font-weight: 100;
+      margin: 0px 10px 0px 10px;
+    }
+    .bottom{
+         display: flex;
+         margin-left: 5%;
+       }
+    .bott_2{
+      margin-left: 45%;
+    }
+
+
+
+    .text_1{
+      float: right;
+      margin: -19% 9% 0% 0%;
+      position: relative;
+      display: flex;
+      
+      
+    }
+    .text_2{
+      float: right;
+      margin: -11% 9% 0% 0%;
+     
+     
+    }
+
+    .pp{
+      text-align: left;
+      margin-left: 10px;
+    }
+    .div_3{
+      display: flex;
+      margin: 5% 9% 6% 22%;
+      border-radius: 20px;
+      background-color: whitesmoke;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      width: 1100px;
+      height: 435px;
+    }
+   .div3_a{
+      margin: -2% -3% 2% 1%;
+   }
+   .div3_b{
+      margin: 7% 3% 3% 0%;
+  }
+  .div3_c{
+      margin: 10% 2% 5% 10%;
+  }
+
+  table, th, td {
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 15px;
+  }
+  .divv{
+    height:300px ;
+  }
+       
+       .div_4 {
+        display: flex;
+        margin-left: 18%;
+        /* background-color: whitesmoke; */
+        width: 80%;
+        border-radius: 15px;
+       }
+       
+      .div4_a, .div4_b, .div4_c{
+         margin-left: 2%;
+         height: 60%;
+         width: 30%;
+         border-radius: 5px;
+         padding: 10px;
+         background-color: whitesmoke;
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      }
+      .aaa, .aaa1{
+        margin: 10px 0px 0px 30px;
+        font-weight: 100;
+       
+      } 
+
+       #myChart1{
+        background-color: rgb(0, 229, 255);
+         margin: -10% 0% 0% 10%;
+          border-radius: 5px;
+       }
+       #myChart{
+        background-color: orange;
+        margin: -10% 0% 0% 10%;
+         border-radius: 5px;
+      }
+      #myChart3{
+        background-color: rgb(255, 8, 0);
+        margin: -10% 0% 0% 10%;
+         border-radius: 5px;
+      }
+      .div_5{
+        position: relative;
+        display: flex;
+        margin: 5% 0% 0% 18%;
+       
+      }
+      .div5_a, .div5_b, .div5_c{
+         margin-left: 2%;
+         height: 50%;
+         width: 30%;
+         background-color:whitesmoke ;
+         border-radius: 10px;
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+         
+      }
+      .imgg{
+        height:40%;
+        width:80%;
+        margin: -10% 0% 0% 10%;
+        border-radius: 10px;
+      }
+      #myChart3:hover, #myChart:hover, #myChart1:hover, .imgg:hover {
+        margin-top: -50px;
+        
+        
+      }
+    .div_6{
+        position: absolute;
+        display: flex;
+        margin-left: 19%;
+        margin-top: 10px;
+    
+    }
+    .div_6:hover{
+      cursor: pointer;
+    }
+
+    .last:hover{
+      cursor: text;
+    }
+    .side_nav{
+        position: fixed;
+        background-image: url(senry.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+        width: 17%;
+        color: whitesmoke;
+        padding: 1%;
+        text-align: center;
+        opacity: 0.6;
+
+    }
+    
+    
+     .side{
+      font-size: 25px;
+     }
+     .side2{
+      background-color: aqua;
+      padding: 2%;
+     }
+     .side:hover{
+      cursor: pointer;
+      background-color: rgb(212, 210, 207);
+     }
+
